@@ -4,6 +4,7 @@ This project is a clone of the Getir mobile application. In this project, you ca
 
 # USED TECHNOLOGIES
 
+- Typescript
 - expo
 - expo-status-bar
 - react-native-gesture-handler
